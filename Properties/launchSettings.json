@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "filter-lines": {
+      "commandName": "Project",
+      "commandLineArgs": "all.txt animals.txt"
+    }
+  }
+}
